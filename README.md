@@ -1,2 +1,2 @@
 # joshuawxyz-microdotblog
-Archive of joshuawxyz.micro.blog, to be used to sync micro posts back to my official website
+Archive of joshuawxyz.micro.blog, also hopefully to be used to sync my micro posts back to my official website
