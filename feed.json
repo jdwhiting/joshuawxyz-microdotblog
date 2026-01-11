@@ -1,0 +1,50 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Joshua Whiting",
+	"icon": "https://micro.blog/joshuawxyz/avatar.jpg",
+	"home_page_url": "https://joshuawxyz.micro.blog/",
+	"feed_url": "https://joshuawxyz.micro.blog/feed.json",
+	"items": [
+		
+			{
+				"id": "http://joshuawxyz.micro.blog/2026/01/03/thinking-back-now-im-pretty.html",
+				
+				"content_html": "<p>Thinking back now I’m pretty sure that it said ART is PUNK is LOVE <a href=\"https://joshuaw.xyz/notes/2026/01/artispunkisjoy/\">https://joshuaw.xyz/notes/2026/01/artispunkisjoy/</a></p>\n",
+				"content_text": "Thinking back now I’m pretty sure that it said ART is PUNK is LOVE [https://joshuaw.xyz/notes/2026/01/artispunkisjoy/](https://joshuaw.xyz/notes/2026/01/artispunkisjoy/)\n",
+				"date_published": "2026-01-03T00:37:20-07:00",
+				"url": "https://joshuawxyz.micro.blog/2026/01/03/thinking-back-now-im-pretty.html"
+			},
+			{
+				"id": "http://joshuawxyz.micro.blog/2025/06/01/tree-pretty-sure-a-screech.html",
+				
+				"content_html": "<p>tree</p>\n<!-- raw HTML omitted -->\n<p>pretty sure a screech owl lives in it</p>\n<p>Fox Hollow iykyk</p>\n<p>#mbjune 📷 Day 1</p>\n",
+				"content_text": "tree\n\n<img src=\"uploads/2025/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n\npretty sure a screech owl lives in it\n\nFox Hollow iykyk\n\n#mbjune 📷 Day 1\n",
+				"date_published": "2025-06-01T21:02:51-07:00",
+				"url": "https://joshuawxyz.micro.blog/2025/06/01/tree-pretty-sure-a-screech.html"
+			},
+			{
+				"id": "http://joshuawxyz.micro.blog/2025/04/06/121501.html",
+				
+				"content_html": "<p><a href=\"http://maps.apple.com/?ll=40.986094,-111.895437\">📍</a></p>\n<p>Waiting in line for a ride and testing how the location thing works on micro social / microblog and whether this is something I want to start doing in my life.</p>\n",
+				"content_text": "[📍](http://maps.apple.com/?ll=40.986094,-111.895437)\n\nWaiting in line for a ride and testing how the location thing works on micro social / microblog and whether this is something I want to start doing in my life. \n",
+				"date_published": "2025-04-06T11:15:01-07:00",
+				"url": "https://joshuawxyz.micro.blog/2025/04/06/121501.html"
+			},
+			{
+				"id": "http://joshuawxyz.micro.blog/2025/01/07/testing-again-crossposting-from-microblog.html",
+				
+				"content_html": "<p>Testing again cross-posting from micro.blog to Bluesky and hopefully Threads&hellip;</p>\n",
+				"content_text": "Testing again cross-posting from micro.blog to Bluesky and hopefully Threads...\r\n\r\n",
+				"date_published": "2025-01-07T19:31:50-07:00",
+				"url": "https://joshuawxyz.micro.blog/2025/01/07/testing-again-crossposting-from-microblog.html"
+			},
+			{
+				"id": "http://joshuawxyz.micro.blog/2025/01/06/testing-crossposting-from-microblog-to.html",
+				
+				"content_html": "<p>Testing cross-posting from micro.blog to Bluesky and hopefully Threads&hellip;</p>\n",
+				"content_text": "Testing cross-posting from micro.blog to Bluesky and hopefully Threads...\n",
+				"date_published": "2025-01-06T21:44:46-07:00",
+				"url": "https://joshuawxyz.micro.blog/2025/01/06/testing-crossposting-from-microblog-to.html"
+			}
+	]
+}
