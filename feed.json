@@ -7,12 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://joshuawxyz.micro.blog/2026/03/01/edited-an-aclu-contact-your.html",
+				
+				"content_html": "<p>Edited an <a href=\"https://action.aclu.org/send-message/war-on-iran\">ACLU &lsquo;contact your representatives&rsquo; form letter about the unauthorized Iran attacks</a> to more explicitly call them cowards and urge them to finally begin to fulfill their constitutional responsibilities.  I&rsquo;m sure that will go over well or be useful at all.</p>\n",
+				"content_text": "Edited an [ACLU 'contact your representatives' form letter about the unauthorized Iran attacks](https://action.aclu.org/send-message/war-on-iran) to more explicitly call them cowards and urge them to finally begin to fulfill their constitutional responsibilities.  I'm sure that will go over well or be useful at all.  \n\n",
+				"date_published": "2026-03-01T22:30:48-07:00",
+				"url": "https://joshuawxyz.micro.blog/2026/03/01/edited-an-aclu-contact-your.html",
+				"tags": ["links with occasional context"]
+			},
+			{
+				"id": "http://joshuawxyz.micro.blog/2026/03/01/something-borrowed-something-cruel-rep.html",
+				
+				"content_html": "<p><a href=\"https://www.elevateutah.news/p/something-borrowed-something-cruel\">Something Borrowed, Something Cruel</a>:</p>\n<blockquote>\n<p>Rep. Dunnigan asked whether, under this new version of the bill, someone walking into a homeless shelter in a snowstorm would need to prove citizenship. Lee confirmed: yes.</p>\n<p>Then Rep. Karen Peterson moved to circle the bill&hellip;Peterson said her phone was blowing up with stakeholders — cities, counties, service providers — who hadn’t understood how this would hit them on senior meal programs, emergency services, and more. They needed more time to figure out what they were even dealing with.</p>\n<p>Lee rejected the motion: “It would just be reason that they don’t want the bill to pass.”</p>\n</blockquote>\n",
+				"content_text": "[Something Borrowed, Something Cruel](https://www.elevateutah.news/p/something-borrowed-something-cruel):\n\n> Rep. Dunnigan asked whether, under this new version of the bill, someone walking into a homeless shelter in a snowstorm would need to prove citizenship. Lee confirmed: yes.\n> \n> Then Rep. Karen Peterson moved to circle the bill...Peterson said her phone was blowing up with stakeholders — cities, counties, service providers — who hadn’t understood how this would hit them on senior meal programs, emergency services, and more. They needed more time to figure out what they were even dealing with.\n> \n> Lee rejected the motion: “It would just be reason that they don’t want the bill to pass.”\n",
+				"date_published": "2026-03-01T21:37:46-07:00",
+				"url": "https://joshuawxyz.micro.blog/2026/03/01/something-borrowed-something-cruel-rep.html",
+				"tags": ["links with occasional context"]
+			},
+			{
 				"id": "http://joshuawxyz.micro.blog/2026/02/26/ofalafel-etc-testing-location-and.html",
 				
 				"content_html": "<p>O&rsquo;Falafel Etc. <a href=\"http://maps.apple.com/?ll=40.725305,-111.868780\">📍</a></p>\n<p>Testing location and photo sharing and linking in one post. Tandoori tin at O’Falafel in SLC</p>\n<p><a href=\"https://ofalafeletc.com/product/tandoori-tin/\">ofalafeletc.com/product/t&hellip;</a></p>\n<p><img src=\"https://joshuawxyz.micro.blog/uploads/2026/image-20260226-123154-763cef82.jpg\" alt=\"Tandoori Chicken tin\"></p>\n",
 				"content_text": "O'Falafel Etc. [📍](http://maps.apple.com/?ll=40.725305,-111.868780)\n\nTesting location and photo sharing and linking in one post. Tandoori tin at O’Falafel in SLC\n\n[ofalafeletc.com/product/t...](https://ofalafeletc.com/product/tandoori-tin/)\n\n![Tandoori Chicken tin](https://joshuawxyz.micro.blog/uploads/2026/image-20260226-123154-763cef82.jpg)\n",
 				"date_published": "2026-02-26T12:32:00-07:00",
-				"url": "https://joshuawxyz.micro.blog/2026/02/26/ofalafel-etc-testing-location-and.html"
+				"url": "https://joshuawxyz.micro.blog/2026/02/26/ofalafel-etc-testing-location-and.html",
+				"tags": ["links with occasional context","images with occasional context","places"]
 			},
 			{
 				"id": "http://joshuawxyz.micro.blog/2026/02/25/oh-my-gosh-im-an.html",
@@ -20,7 +39,8 @@
 				"content_html": "<p>Oh my gosh I’m an old person</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Oh my gosh I’m an old person \n\n<img src=\"uploads/2026/image.png\" width=\"600\" height=\"135\" alt=\"\">\n",
 				"date_published": "2026-02-25T18:27:49-07:00",
-				"url": "https://joshuawxyz.micro.blog/2026/02/25/oh-my-gosh-im-an.html"
+				"url": "https://joshuawxyz.micro.blog/2026/02/25/oh-my-gosh-im-an.html",
+				"tags": ["links with occasional context","images with occasional context"]
 			},
 			{
 				"id": "http://joshuawxyz.micro.blog/2026/01/11/174131.html",
@@ -28,7 +48,8 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<img src=\"uploads/2026/20260111-saultdiscographyalbumcovers.gif\" width=\"350\" height=\"350\" alt=\"\">\n",
 				"date_published": "2026-01-11T17:41:31-07:00",
-				"url": "https://joshuawxyz.micro.blog/2026/01/11/174131.html"
+				"url": "https://joshuawxyz.micro.blog/2026/01/11/174131.html",
+				"tags": ["links with occasional context","images with occasional context"]
 			},
 			{
 				"id": "http://joshuawxyz.micro.blog/2026/01/03/thinking-back-now-im-pretty.html",
@@ -36,15 +57,17 @@
 				"content_html": "<p>Thinking back now I’m pretty sure that it said ART is PUNK is LOVE <a href=\"https://joshuaw.xyz/notes/2026/01/artispunkisjoy/\">https://joshuaw.xyz/notes/2026/01/artispunkisjoy/</a></p>\n",
 				"content_text": "Thinking back now I’m pretty sure that it said ART is PUNK is LOVE [https://joshuaw.xyz/notes/2026/01/artispunkisjoy/](https://joshuaw.xyz/notes/2026/01/artispunkisjoy/)\n",
 				"date_published": "2026-01-03T00:37:20-07:00",
-				"url": "https://joshuawxyz.micro.blog/2026/01/03/thinking-back-now-im-pretty.html"
+				"url": "https://joshuawxyz.micro.blog/2026/01/03/thinking-back-now-im-pretty.html",
+				"tags": ["links with occasional context"]
 			},
 			{
 				"id": "http://joshuawxyz.micro.blog/2025/06/01/tree-pretty-sure-a-screech.html",
 				
 				"content_html": "<p>tree</p>\n<!-- raw HTML omitted -->\n<p>pretty sure a screech owl lives in it</p>\n<p>Fox Hollow iykyk</p>\n<p>#mbjune 📷 Day 1</p>\n",
-				"content_text": "tree\n\n<img src=\"uploads/2025/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n\npretty sure a screech owl lives in it\n\nFox Hollow iykyk\n\n#mbjune 📷 Day 1\n",
+				"content_text": "tree\n\n<img src=\"https://joshuawxyz.micro.blog/uploads/2025/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n\npretty sure a screech owl lives in it\n\nFox Hollow iykyk\n\n#mbjune 📷 Day 1\n",
 				"date_published": "2025-06-01T21:02:51-07:00",
-				"url": "https://joshuawxyz.micro.blog/2025/06/01/tree-pretty-sure-a-screech.html"
+				"url": "https://joshuawxyz.micro.blog/2025/06/01/tree-pretty-sure-a-screech.html",
+				"tags": ["links with occasional context","images with occasional context"]
 			},
 			{
 				"id": "http://joshuawxyz.micro.blog/2025/04/06/121501.html",
@@ -52,7 +75,8 @@
 				"content_html": "<p><a href=\"http://maps.apple.com/?ll=40.986094,-111.895437\">📍</a></p>\n<p>Waiting in line for a ride and testing how the location thing works on micro social / microblog and whether this is something I want to start doing in my life.</p>\n",
 				"content_text": "[📍](http://maps.apple.com/?ll=40.986094,-111.895437)\n\nWaiting in line for a ride and testing how the location thing works on micro social / microblog and whether this is something I want to start doing in my life. \n",
 				"date_published": "2025-04-06T11:15:01-07:00",
-				"url": "https://joshuawxyz.micro.blog/2025/04/06/121501.html"
+				"url": "https://joshuawxyz.micro.blog/2025/04/06/121501.html",
+				"tags": ["links with occasional context","places"]
 			},
 			{
 				"id": "http://joshuawxyz.micro.blog/2025/01/07/testing-again-crossposting-from-microblog.html",
